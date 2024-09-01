@@ -1,2 +1,3 @@
 # first-repo- 
-hi, this  is sachin suman here <b> author-  sachin
+hi, this  is sachin suman here 
+author-  sachin
